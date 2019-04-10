@@ -1,4 +1,4 @@
-apikey = "mosuansbtest@dksakd-fasfa-sadas-fasf"
+apikey = "mosuansbtest-dksakd-fasfa-sadas-fasf"
 
 
 ## Welcome to GitHub Pages
